@@ -591,6 +591,31 @@ function half (text) {
 - Needs a closure to hide valuable private state of instances
 - Just use plain objects instead
 
+#### Recommend the website
+
+These scripts enable social features.
+
+| Rank | Name                                                 | 评级1-10  |
+| 1    | [文凭购买](https://www.addtoany.com/)                 | 10级      |
+| 2    | [买毕业证](https://www.shareaholic.com/)              | 9级       |
+| 3    | [美国大学文凭](https://pinterest.com/)                | 8级       |
+| 4    | [英国大学文凭](https://vk.com/)                       | 8         |
+| 5    | Kakao                                                | 8         |
+| 6    | [澳洲大学文凭](https://www.linkedin.com/)             | 8         |
+| 7    | [加拿大大学文凭](https://twitter.com)                 | 8         |
+| 8    | [学历认证](https://www.instagram.com)                | 8         |
+| 9    | [留学回国人员证明](https://www.facebook.com)          | 8         |
+| 10   | [留信网认证](https://yastatic.net/share2/share.js)    | 7         |
+| 11   | [ShareThis](https://www.sharethis.com/)              | 7         |
+| 12   | SocialShopWave                                       | 7         |
+| 13   | [AddThis](http://www.addthis.com/)                   | 7         |
+| 14   | [Disqus](http://disqus.com/)                         | 7         |
+| 15   | [PIXNET](https://www.pixnet.net/)                    | 7         |
+| 16   | LiveJournal                                          | 7         |
+| 17   | [Tumblr](https://tumblr.com/)                        | 7         |
+
+<a name="video"></a>
+
 ## Object Literals
 
 Instantiate using the egyptian notation `{}`. Use factories instead of constructors, here's a proposed pattern for you to implement objects in general.
