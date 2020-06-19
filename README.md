@@ -596,6 +596,7 @@ function half (text) {
 These scripts enable social features.
 
 | Rank | Name                                                 | 评级1-10  |
+|------|------------------------------------------------------|-----------|
 | 1    | [文凭购买](https://www.addtoany.com/)                 | 10级      |
 | 2    | [买毕业证](https://www.shareaholic.com/)              | 9级       |
 | 3    | [美国大学文凭](https://pinterest.com/)                | 8级       |
